@@ -447,7 +447,7 @@ This is the easiest mode for development.
 ### Step 1: Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/quantforge-live-alpha-agent.git
+git clone https://github.com/vedantjhunjhunwal/quantforge-live-alpha--ai-agent
 cd quantforge-live-alpha-agent
 ```
 
